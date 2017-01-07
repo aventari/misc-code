@@ -1,0 +1,1 @@
+g++ bmix-client.cpp -Wall `sdl-config --cflags --libs` -lSDL_sound -ggdb

@@ -1,0 +1,1 @@
+g++ bmix-serv.cpp -Wall 
